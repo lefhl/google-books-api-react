@@ -1,0 +1,50 @@
+.Form {
+  &__search-line {
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  &__search-field {
+    flex-grow: 1;
+  }
+
+  &__filters {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+  }
+
+  &__filter-name {
+    margin-right: 7px;
+    line-height: 1;
+  }
+
+  &__select {
+    display: flex;
+    align-items: center;
+  }
+
+  @media (max-width: 900px) {
+    &__filters {
+      display: block;
+    }
+
+    &__select {
+      justify-content: space-between;
+      &:not(:last-child) {
+        margin-bottom: 20px;
+      }
+    }
+  }
+
+  @media (max-width: 640px) {
+    &__select {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    &__filter-name {
+      margin: 0 0 5px;
+    }
+  }
+}
