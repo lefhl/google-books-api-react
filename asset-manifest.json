@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56504644.chunk.css",
+    "main.js": "/static/js/main.c375787d.chunk.js",
+    "main.js.map": "/static/js/main.c375787d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8013d555.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8013d555.js.map",
+    "static/js/2.b11629d6.chunk.js": "/static/js/2.b11629d6.chunk.js",
+    "static/js/2.b11629d6.chunk.js.map": "/static/js/2.b11629d6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.56504644.chunk.css.map": "/static/css/main.56504644.chunk.css.map",
+    "static/js/2.b11629d6.chunk.js.LICENSE.txt": "/static/js/2.b11629d6.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Roboto-Regular.9d43b864.woff2",
+    "static/media/SearchForm.scss": "/static/media/book.1c4a2e3e.jpg",
+    "static/media/book.9e033eb4.png": "/static/media/book.9e033eb4.png",
+    "static/media/search.9748c2d7.svg": "/static/media/search.9748c2d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8013d555.js",
+    "static/js/2.b11629d6.chunk.js",
+    "static/css/main.56504644.chunk.css",
+    "static/js/main.c375787d.chunk.js"
+  ]
+}
